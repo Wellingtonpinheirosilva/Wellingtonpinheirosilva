@@ -23,6 +23,7 @@ Sou **Backend Developer** , criação de sistemas, integrações e soluções in
  - 💻 C#: Desenvolvimento de aplicações desktop, programação orientada a objetos.
  - 💻 Bancos de dados: SQL, modelagem de dados, consultas, otimização de desempenho.
  - 💻 Git: Controle de versão, colaboração em projetos, resolução de conflitos.
+ - 💻 Outras linguagens: JavaScript.
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Contribuição </b>
