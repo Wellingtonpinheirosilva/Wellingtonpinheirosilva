@@ -29,7 +29,7 @@ Sou **Backend Developer** , criação de sistemas, integrações e soluções in
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Contribuição </b>
 <br>
 
-- ✨ Estou aberta a colaborações. Se você tiver algum projeto no qual eu possa contribuir ou quiser discutir ideias, fique à vontade para entrar em contato.
+- ✨ Estou aberto a colaborações. Se você tiver algum projeto no qual eu possa contribuir ou quiser discutir ideias, fique à vontade para entrar em contato.
 
   
  
