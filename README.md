@@ -13,6 +13,7 @@ Sou **Backend Developer** , criação de sistemas, integrações e soluções in
 
 - 💻 Foco principal: **Backend**
 - 🤖 Experiência prática com **, Desenvolvimento de Software**
+- 🧠 Perfil analítico, orientado a performance, escalabilidade e regras de negócio
 
 ---
 
