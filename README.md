@@ -20,6 +20,7 @@ Sou **Backend Developer** , criação de sistemas, integrações e soluções in
 <br>
 
  - 💻 Python: Desenvolvimento de aplicações, manipulação de dados, automação de tarefas.
+ - 💻 C#: Desenvolvimento de aplicações desktop, programação orientada a objetos.
  - 💻 Bancos de dados: SQL, modelagem de dados, consultas, otimização de desempenho.
  - 💻 Git: Controle de versão, colaboração em projetos, resolução de conflitos.
 
